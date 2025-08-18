@@ -1,30 +1,19 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
-        
-        if numRows == 1:
+        if numRows == 1 or numRows >= len(s):
             return s
-        _dict = {}
-        for i in range(numRows):
-            _dict[i] = ""
-        i = 0
-        check = True
-        for item in s:
-            _dict[i] += item
-            if i == numRows - 1:
-                check = False
-            elif i == 0:
-                check = True
-            
-            if check:
-                i += 1
-            else: 
-                i -= 1
-        res = ""
-        for i in _dict:
-            res += _dict[i]
-        
-        return res
 
+        rows = [""] * numRows
+        i, step = 0,1
+
+        for ch in s:
+            rows[i] += ch
+            if i == 0:
+                step = 1
+            elif i == numRows - 1:
+                step = -1
+            i += step
+        return "".join(rows)
             
             
         
