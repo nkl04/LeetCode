@@ -33,14 +33,20 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nkl04/LeetCode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/nkl04/LeetCode/tree/master/0010-regular-expression-matching) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nkl04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/nkl04/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/nkl04/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/nkl04/LeetCode/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nkl04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/nkl04/LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
