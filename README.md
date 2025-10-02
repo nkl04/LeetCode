@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/nkl04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/nkl04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nkl04/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/nkl04/LeetCode/tree/master/0220-contains-duplicate-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0187-repeated-dna-sequences](https://github.com/nkl04/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/nkl04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nkl04/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/nkl04/LeetCode/tree/master/0220-contains-duplicate-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +76,16 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nkl04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/nkl04/LeetCode/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/nkl04/LeetCode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/nkl04/LeetCode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
