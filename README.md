@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nkl04/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nkl04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/nkl04/LeetCode/tree/master/0011-container-with-most-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/nkl04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nkl04/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/nkl04/LeetCode/tree/master/0220-contains-duplicate-iii) |
@@ -88,4 +89,12 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/nkl04/LeetCode/tree/master/0220-contains-duplicate-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nkl04/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nkl04/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
