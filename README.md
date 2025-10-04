@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/nkl04/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nkl04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nkl04/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/nkl04/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/nkl04/LeetCode/tree/master/0015-3sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/nkl04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nkl04/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -58,6 +59,7 @@
 | [0010-regular-expression-matching](https://github.com/nkl04/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/nkl04/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nkl04/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/nkl04/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0187-repeated-dna-sequences](https://github.com/nkl04/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nkl04/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nkl04/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
