@@ -60,6 +60,7 @@
 | [0012-integer-to-roman](https://github.com/nkl04/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nkl04/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nkl04/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/nkl04/LeetCode/tree/master/0022-generate-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/nkl04/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/nkl04/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/nkl04/LeetCode/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nkl04/LeetCode/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nkl04/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
