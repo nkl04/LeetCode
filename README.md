@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/nkl04/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nkl04/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/nkl04/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nkl04/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nkl04/LeetCode/tree/master/0018-4sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/nkl04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nkl04/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nkl04/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nkl04/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nkl04/LeetCode/tree/master/0018-4sum) |
 | [0220-contains-duplicate-iii](https://github.com/nkl04/LeetCode/tree/master/0220-contains-duplicate-iii) |
 ## Bucket Sort
@@ -115,6 +117,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/nkl04/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nkl04/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nkl04/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nkl04/LeetCode/tree/master/0018-4sum) |
 ## Greedy
 |  |
