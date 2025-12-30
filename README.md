@@ -16,6 +16,7 @@
 | [0219-contains-duplicate-ii](https://github.com/nkl04/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/nkl04/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/nkl04/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/nkl04/LeetCode/tree/master/0283-move-zeroes) |
 | [0733-flood-fill](https://github.com/nkl04/LeetCode/tree/master/0733-flood-fill) |
 | [2751-sliding-subarray-beauty](https://github.com/nkl04/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 ## Binary Search
@@ -125,6 +126,7 @@
 | [0015-3sum](https://github.com/nkl04/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nkl04/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nkl04/LeetCode/tree/master/0018-4sum) |
+| [0283-move-zeroes](https://github.com/nkl04/LeetCode/tree/master/0283-move-zeroes) |
 | [0917-reverse-only-letters](https://github.com/nkl04/LeetCode/tree/master/0917-reverse-only-letters) |
 ## Greedy
 |  |
